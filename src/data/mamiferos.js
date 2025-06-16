@@ -2,7 +2,7 @@ export const mamifero = [
 
     {
         "id": "m1",
-        "nombre": "",
+        "nombre": "Okapi",
         "nombre_cientifico":"",
         "orden":"",
         "familia":"",
